@@ -1,15 +1,15 @@
 class DuplicateArray{
 
-   int arrayDuplicate(int [] arr){
+   static void arrayDuplicate(int [] arr){
 
     int n = arr.length,i=0;
 
     while(i<n)
     {
         for(int j = i;j<n;j++){
-            if(arr[j]==arr[j+1])
+            if(arr[j]==arr[j+1] && )
             {
-             return j; 
+             temp = 
             }
         
         }
