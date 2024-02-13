@@ -1,4 +1,4 @@
-class aiwee{
+class MaximumString{
     public static char maximumString(String s) {
 
     //    int n = s.length();
